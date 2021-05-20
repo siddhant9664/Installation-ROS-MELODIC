@@ -1,7 +1,7 @@
 # Installation of ROS (ROBOT OPERATING SYSTEM)
 ## For installation of ROS MELODIC you must be on UBUNTU version 18.04 only.
-### Follow the instructions  [here](https://www.youtube.com/watch?v=gPCxQNQYk2s) for detailed Ubuntu Installation
-## 1.ROS
+### Follow the instructions  [here](https://www.youtube.com/watch?v=gPCxQNQYk2s) for detailed Ubuntu 18.04 Installation.
+## 1. ROS
 #### You can proceed with the instructions provided below or you can find these installation instructions [here](https://www.youtube.com/watch?v=SUyuOYeuKqA)
 Open a new terminal and execute the commands below.
 #### Setup your sources.list
