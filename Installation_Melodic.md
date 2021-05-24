@@ -25,8 +25,8 @@ Open a new terminal and execute the commands below.
 
 
 ```
-sudo apt-get install python3-wstool python3-rosinstall-generator python3-catkin-lint python3-pip python3-catkin-tools
-pip3 install osrf-pycommon
+sudo apt-get install python-wstool python-rosinstall-generator python-catkin-tools
+
 ```
 
 ```
