@@ -26,7 +26,6 @@ Open a new terminal and execute the commands below.
 
 ```
 sudo apt-get install python-wstool python-rosinstall-generator python-catkin-tools
-
 ```
 
 ```
