@@ -2,7 +2,7 @@
 ## For installation of ROS MELODIC you must be on UBUNTU version 18.04 only.
 ### Follow the instructions  [here](https://www.youtube.com/watch?v=gPCxQNQYk2s) (Video Tutorial) or [here](https://itsfoss.com/dual-boot-hdd-ssd/) (Webpage) for detailed Ubuntu 18.04 Installation.
 ## 1. ROS
-#### You can proceed with the instructions provided below or you can find these installation instructions [here](https://www.youtube.com/watch?v=SUyuOYeuKqA)
+#### You can proceed with the instructions provided below or you can find these installation instructions [here](http://wiki.ros.org/melodic/Installation/Ubuntu)
 Open a new terminal and execute the commands below.
 #### Setup your sources.list
     sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
